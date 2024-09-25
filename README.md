@@ -15,15 +15,6 @@ Este proyecto es un slider interactivo diseñado para mostrar imágenes de diver
 - **CSS3**: Estilos y diseño visual.
 - **JavaScript**: Funcionalidad y transiciones del slider.
 
-2. Abre el archivo `index.html` en tu navegador.
-
-## Uso
-
-- Navega por el slider utilizando los botones de navegación o las flechas del teclado.
-- Disfruta de la galería interactiva con imágenes de alta calidad de diferentes especies animales.
-
-
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
-
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](./LICENSE).
